@@ -1,0 +1,7 @@
+PROGRAM 2 - PONG
+-------Maggie Yang------
+
+Pressing 'A'/'D' - moves blue paddle left/right
+Pressing 'J'/'L' - moves red paddle left/right
+
+Game ends (ball resets to the middle and doesn't move) when one side reaches 10pts

@@ -1,0 +1,6 @@
+LAB 6 - CLOUD
+-------Maggie Yang------
+
+W/S - move camera forward and backwards
+A/D - yaw left/right
+Q/E - pitch down/up

@@ -1,0 +1,10 @@
+MIDTERM ASSIGNMENT - ANIMATED SNOWGLOBE MAPPED KEYS
+-------Maggie Yang------
+
+Pressing 'T'/'G' - moves left arm up/down
+Pressing 'Y'/'H' - moves right arm up/down
+Pressing 'R'/'F' - moves left leg forward/back
+Pressing 'U'/'J' - moves right leg forward/back
+Pressing 'B' - moves all limbs repeatedly. Pressing it again stops animation.
+
+w/a/s/d - controls camera
